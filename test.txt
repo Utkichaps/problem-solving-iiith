@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 This is an example of a test text file
 new Branch1
 sertsertesrt
 
 (Making changes on github.com)
+=======
+>>>>>>> parent of a4519cd... second commit
